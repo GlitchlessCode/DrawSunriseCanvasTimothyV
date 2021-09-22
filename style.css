@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Make IMGs invisible */
+img {
+    display: none;
+}
+
+canvas {
+    border: 1px solid black;
+}
